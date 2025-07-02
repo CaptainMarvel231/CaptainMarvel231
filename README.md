@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaptainMarvel231
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in Data Analysis & Visualization
+- 🌱 I’m currently learning Data Analysis & Visualization
 - 💞️ I’m looking to collaborate on various intruiging projects
 - 📫 How to reach me, marviio2310@gmail.com
 - 😄 Pronouns: she/her
